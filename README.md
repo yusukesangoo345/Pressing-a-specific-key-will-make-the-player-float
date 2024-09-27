@@ -1,8 +1,8 @@
 # [Thank you for visiting]
-Table of Contents
-About me
-How to use (check the license for details)
-About this code
+・Table of Contents
+・About me
+・How to use (check the license for details)
+・About this code
 
 # [About me]
 I'm a Japanese student who calls himself a programmer.
